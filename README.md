@@ -32,7 +32,7 @@ Sets up an Arduino board as a LoRa sender. It initializes the LoRa module, sends
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shashwat/LoRa-Communication-System.git
+   git clone https://github.com/Yash070707/LoRa-Shield-for-Mobile-Phone.git
 
 2. Open each `.ino` file in the Arduino IDE.
 
